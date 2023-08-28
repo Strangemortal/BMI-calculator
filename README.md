@@ -1,0 +1,2 @@
+# BMI-calculator
+The BMI Calculator is a valuable health and fitness tool designed to help individuals assess and monitor their body mass index (BMI) quickly and accurately. BMI is a widely recognized indicator of a person's overall health by evaluating the relationship between their height and weight. This digital calculator simplifies the process of calculating BMI and provides insights into one's weight status, making it a crucial resource for individuals striving to maintain a healthy lifestyle.
